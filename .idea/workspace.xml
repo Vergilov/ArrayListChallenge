@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="876253ec-41c8-4132-97b0-932be0b54975" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/vergilov/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vergilov/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vergilov/Mobilephone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vergilov/Mobilephone.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/vergilov/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-31">
-              <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+            <state relative-caret-position="326">
+              <caret line="90" column="46" selection-start-line="90" selection-start-column="46" selection-end-line="90" selection-end-column="46" />
               <folding>
                 <element signature="e#1136#1137#0" expanded="true" />
                 <element signature="e#1191#1192#0" expanded="true" />
@@ -45,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mobilephone.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Mobilephone.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/vergilov/Mobilephone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+            <state relative-caret-position="273">
+              <caret line="16" column="82" selection-start-line="16" selection-start-column="82" selection-end-line="16" selection-end-column="82" />
               <folding>
                 <element signature="e#982#983#0" expanded="true" />
                 <element signature="e#1037#1038#0" expanded="true" />
@@ -79,8 +79,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/vergilov/Contact.java" />
-        <option value="$PROJECT_DIR$/src/com/vergilov/Main.java" />
         <option value="$PROJECT_DIR$/src/com/vergilov/Mobilephone.java" />
+        <option value="$PROJECT_DIR$/src/com/vergilov/Main.java" />
       </list>
     </option>
   </component>
@@ -191,12 +191,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525220883431</updated>
       <workItem from="1525220885087" duration="4688000" />
-      <workItem from="1525546879095" duration="6147000" />
+      <workItem from="1525546879095" duration="7863000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10835000" />
+    <option name="totallyTimeSpent" value="12551000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="6" width="1908" height="1026" extended-state="0" />
@@ -208,12 +208,12 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50054586" side_tool="true" weight="0.32982457" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5010917" side_tool="true" weight="0.32982457" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32982457" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32982457" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49945414" visible="true" weight="0.32982457" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4989083" visible="true" weight="0.32982457" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25382096" />
@@ -349,26 +349,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vergilov/Mobilephone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="16" column="82" selection-start-line="16" selection-start-column="82" selection-end-line="16" selection-end-column="82" />
+          <folding>
+            <element signature="e#982#983#0" expanded="true" />
+            <element signature="e#1037#1038#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/vergilov/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-31">
-          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
+        <state relative-caret-position="326">
+          <caret line="90" column="46" selection-start-line="90" selection-start-column="46" selection-end-line="90" selection-end-column="46" />
           <folding>
             <element signature="e#1136#1137#0" expanded="true" />
             <element signature="e#1191#1192#0" expanded="true" />
             <element signature="e#1824#1825#0" expanded="true" />
             <element signature="e#1854#1855#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/vergilov/Mobilephone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#982#983#0" expanded="true" />
-            <element signature="e#1037#1038#0" expanded="true" />
           </folding>
         </state>
       </provider>

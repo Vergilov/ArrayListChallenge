@@ -82,10 +82,15 @@ public class Main {
         System.out.println("Type Contact Name: ");
         String contactName = sc.nextLine();
         Contact oldContact =mobilephone.queryContact(contactName);
+        if(oldContact==null){
+            System.out.println("Contact not Found!");
+            return;
+        }
         System.out.println("Type new Contact Name: ");
         String newContactName = sc.nextLine();
         System.out.println("Type new Contact Phone Number: ");
         String newContactNumber = sc.nextLine();
+
         Contact newContact=Contact.createContact(newContactName,newContactNumber);
         mobilephone.updateContact(oldContact,newContact);
     }
