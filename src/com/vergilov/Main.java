@@ -4,15 +4,19 @@ import java.util.Scanner;
 
 public class Main {
     private static Scanner sc = new Scanner(System.in);
-    private static Mobilephone mobilephone = new Mobilephone();
+    private static Mobilephone mobilephone = new Mobilephone("38283212");
 
     public static void main(String[] args) {
 
+
+        boolean quit = false;
         startPhone();
         printActions();
-        boolean quit = false;
-        int action = sc.nextInt();
+
         while (!quit) {
+            System.out.println("Choose Option");
+            int action = sc.nextInt();
+            sc.nextLine();
             switch (action) {
                 case 1:
                     printContact();
@@ -46,8 +50,7 @@ public class Main {
 
     private static void printActions() {
         System.out.println("\nAvailable actions:\npress");
-        System.out.println("0  - to shutdown\n" +
-                "1  - to print contacts\n" +
+        System.out.println(" 1  - to print contacts\n" +
                 "2  - to add a new contact\n" +
                 "3  - to update existing an existing contact\n" +
                 "4  - to remove an existing contact\n" +
@@ -58,20 +61,20 @@ public class Main {
     }
 
     public static void printContact() {
-        printContact();
+        mobilephone.printContact();
     }
 
     public static void addContact() {
-        System.out.println("Type Contact Name: ");
+        System.out.println("Enter new contact name: ");
         String contactName = sc.nextLine();
-        System.out.println("Type Contact Number: ");
+        System.out.println("Enter phone number: ");
         String contactNumber = sc.nextLine();
-        Contact newContact = Contact.createContact(contactName, contactNumber);
-        if (mobilephone.addContact(newContact)) {
-            System.out.println("New Contact added:" + newContact.getContactName() +
-                    " Number: " + newContact.getContactNumber());
-        } else {
-            System.out.println("Cannot add new Contact! (Already exist)");
+        Contact contact = Contact.createContact(contactName, contactNumber);
+        if (mobilephone.addContact(contact)) {
+            System.out.println("New Contact added:" + contactName +
+                    " Number: " + contactNumber);
+        }else {
+            System.out.println("Cannot add, " + contactName + " already on file");
         }
     }
 

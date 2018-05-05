@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="876253ec-41c8-4132-97b0-932be0b54975" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vergilov/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vergilov/Contact.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/vergilov/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vergilov/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/vergilov/Mobilephone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vergilov/Mobilephone.java" afterDir="false" />
     </list>
@@ -21,7 +18,7 @@
       <file leaf-file-name="Contact.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/vergilov/Contact.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
+            <state relative-caret-position="441">
               <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
               <folding>
                 <element signature="e#302#303#0" expanded="true" />
@@ -33,12 +30,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/vergilov/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="389">
-              <caret line="90" column="65" lean-forward="true" selection-start-line="90" selection-start-column="65" selection-end-line="90" selection-end-column="65" />
+            <state relative-caret-position="-31">
+              <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
               <folding>
+                <element signature="e#1136#1137#0" expanded="true" />
+                <element signature="e#1191#1192#0" expanded="true" />
                 <element signature="e#1824#1825#0" expanded="true" />
                 <element signature="e#1854#1855#0" expanded="true" />
               </folding>
@@ -46,14 +45,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Mobilephone.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Mobilephone.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/vergilov/Mobilephone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+            <state relative-caret-position="1050">
+              <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
               <folding>
-                <element signature="e#681#682#0" expanded="true" />
-                <element signature="e#731#732#0" expanded="true" />
+                <element signature="e#982#983#0" expanded="true" />
+                <element signature="e#1037#1038#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,7 +71,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="BugFixin" />
       </map>
     </option>
   </component>
@@ -80,8 +79,8 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/vergilov/Contact.java" />
-        <option value="$PROJECT_DIR$/src/com/vergilov/Mobilephone.java" />
         <option value="$PROJECT_DIR$/src/com/vergilov/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/vergilov/Mobilephone.java" />
       </list>
     </option>
   </component>
@@ -176,6 +175,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -190,12 +191,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525220883431</updated>
       <workItem from="1525220885087" duration="4688000" />
-      <workItem from="1525546879095" duration="2287000" />
+      <workItem from="1525546879095" duration="5952000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6975000" />
+    <option name="totallyTimeSpent" value="10640000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="6" width="1908" height="1026" extended-state="0" />
@@ -203,6 +204,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32982457" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -210,8 +212,8 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32982457" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32982457" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49945414" visible="true" weight="0.32982457" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32982457" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49945414" weight="0.32982457" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25382096" />
@@ -224,7 +226,6 @@
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32982457" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -316,6 +317,8 @@
         <state relative-caret-position="1806">
           <caret line="86" selection-start-line="86" selection-end-line="86" />
           <folding>
+            <element signature="e#1136#1137#0" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
             <element signature="e#1824#1825#0" expanded="true" />
             <element signature="e#1854#1855#0" expanded="true" />
           </folding>
@@ -327,15 +330,15 @@
         <state relative-caret-position="966">
           <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
           <folding>
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
+            <element signature="e#1037#1038#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/vergilov/Contact.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
+        <state relative-caret-position="441">
           <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
           <folding>
             <element signature="e#302#303#0" expanded="true" />
@@ -346,24 +349,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/vergilov/Mobilephone.java">
+    <entry file="file://$PROJECT_DIR$/src/com/vergilov/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="41" column="45" lean-forward="true" selection-start-line="41" selection-start-column="45" selection-end-line="41" selection-end-column="45" />
+        <state relative-caret-position="-31">
+          <caret line="52" column="29" selection-start-line="52" selection-start-column="29" selection-end-line="52" selection-end-column="29" />
           <folding>
-            <element signature="e#681#682#0" expanded="true" />
-            <element signature="e#731#732#0" expanded="true" />
+            <element signature="e#1136#1137#0" expanded="true" />
+            <element signature="e#1191#1192#0" expanded="true" />
+            <element signature="e#1824#1825#0" expanded="true" />
+            <element signature="e#1854#1855#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/vergilov/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/com/vergilov/Mobilephone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="90" column="65" lean-forward="true" selection-start-line="90" selection-start-column="65" selection-end-line="90" selection-end-column="65" />
+        <state relative-caret-position="1050">
+          <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
           <folding>
-            <element signature="e#1824#1825#0" expanded="true" />
-            <element signature="e#1854#1855#0" expanded="true" />
+            <element signature="e#982#983#0" expanded="true" />
+            <element signature="e#1037#1038#0" expanded="true" />
           </folding>
         </state>
       </provider>
