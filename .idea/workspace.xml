@@ -48,8 +48,8 @@
       <file leaf-file-name="Mobilephone.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/vergilov/Mobilephone.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1050">
-              <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
+            <state relative-caret-position="231">
+              <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding>
                 <element signature="e#982#983#0" expanded="true" />
                 <element signature="e#1037#1038#0" expanded="true" />
@@ -191,12 +191,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525220883431</updated>
       <workItem from="1525220885087" duration="4688000" />
-      <workItem from="1525546879095" duration="5952000" />
+      <workItem from="1525546879095" duration="6147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10640000" />
+    <option name="totallyTimeSpent" value="10835000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="6" width="1908" height="1026" extended-state="0" />
@@ -212,8 +212,8 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32982457" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32982457" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.49945414" weight="0.32982457" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32982457" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.49945414" visible="true" weight="0.32982457" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25382096" />
@@ -364,8 +364,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/vergilov/Mobilephone.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
+        <state relative-caret-position="231">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding>
             <element signature="e#982#983#0" expanded="true" />
             <element signature="e#1037#1038#0" expanded="true" />
