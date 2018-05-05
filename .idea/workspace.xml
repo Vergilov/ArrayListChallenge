@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="876253ec-41c8-4132-97b0-932be0b54975" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/src/com/vergilov/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vergilov/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/vergilov/Mobilephone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/vergilov/Mobilephone.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,8 +32,8 @@
       <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/vergilov/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="105" column="67" lean-forward="true" selection-start-line="105" selection-start-column="67" selection-end-line="105" selection-end-column="67" />
+            <state relative-caret-position="263">
+              <caret line="106" column="31" lean-forward="true" selection-start-line="106" selection-start-column="31" selection-end-line="106" selection-end-column="31" />
               <folding>
                 <element signature="e#1136#1137#0" expanded="true" />
                 <element signature="e#1191#1192#0" expanded="true" />
@@ -191,12 +190,12 @@
       <option name="presentableId" value="Default" />
       <updated>1525220883431</updated>
       <workItem from="1525220885087" duration="4688000" />
-      <workItem from="1525546879095" duration="9230000" />
+      <workItem from="1525546879095" duration="10160000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13918000" />
+    <option name="totallyTimeSpent" value="14848000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="6" width="1908" height="1026" extended-state="0" />
@@ -217,7 +216,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25382096" />
-      <window_info anchor="bottom" id="SonarLint" order="7" weight="0.32982457" />
+      <window_info anchor="bottom" id="SonarLint" order="7" sideWeight="0.4989083" weight="0.32982457" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" weight="0.32969433" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -362,8 +361,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/vergilov/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="105" column="67" lean-forward="true" selection-start-line="105" selection-start-column="67" selection-end-line="105" selection-end-column="67" />
+        <state relative-caret-position="263">
+          <caret line="106" column="31" lean-forward="true" selection-start-line="106" selection-start-column="31" selection-end-line="106" selection-end-column="31" />
           <folding>
             <element signature="e#1136#1137#0" expanded="true" />
             <element signature="e#1191#1192#0" expanded="true" />

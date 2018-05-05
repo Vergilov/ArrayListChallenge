@@ -72,7 +72,7 @@ public class Main {
         Contact contact = Contact.createContact(contactName, contactNumber);
         if (mobilephone.addContact(contact)) {
             System.out.println("New Contact added:" + contactName +
-                    " Number: " + contactNumber);
+                    "\nNumber: " + contactNumber);
         }else {
             System.out.println("Cannot add, " + contactName + " already on file");
         }
@@ -104,6 +104,11 @@ public class Main {
         System.out.println("Type contact to find: ");
         String contactName = sc.nextLine();
         Contact queryContact=mobilephone.queryContact(contactName);
-        System.out.println(contactName+" Contact Found!");
+        if(queryContact!=null){
+            System.out.println(queryContact.getContactName()+" Contact Found! Number: "+queryContact.getContactNumber());
+        }else{
+            System.out.println(contactName+" Contact not Found");
+        }
+
     }
 }
