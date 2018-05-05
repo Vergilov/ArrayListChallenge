@@ -103,5 +103,7 @@ public class Main {
     public static void queryContact() {
         System.out.println("Type contact to find: ");
         String contactName = sc.nextLine();
+        Contact queryContact=mobilephone.queryContact(contactName);
+        System.out.println(contactName+" Contact Found!");
     }
 }

@@ -12,7 +12,7 @@ public class Mobilephone {
     }
 
     public void printContact() {
-        if (myContacts.size() > 0) {
+        if (myContacts.size()>=0) {
             for (int i = 0; i < myContacts.size(); i++) {
                 System.out.println((i + 1) + ". " + myContacts.get(i).getContactName()+" "
                         + myContacts.get(i).getContactNumber());
